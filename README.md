@@ -60,7 +60,7 @@ Aplikacja gotowa do uruchomienia w kontenerach Dockera:
 
 ### Struktura:
 - `Dockerfile` – buduje backend FastAPI
-- `docker-compose.yml` – uruchamia backend i bazę danych (np. PostgreSQL)
+- `docker-compose.yml` – uruchamia backend i bazę danych
 
 ### Uruchomienie:
 ```bash
